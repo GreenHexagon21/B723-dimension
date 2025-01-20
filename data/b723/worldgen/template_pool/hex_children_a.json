@@ -7,7 +7,7 @@
         "element": {
           "element_type": "minecraft:single_pool_element",
           "projection": "rigid",
-          "location": "b723:hexagon_base/pot_hexagon_child",
+          "location": "b723:hexagon_base/hex_children_a/hexagon_child_a1",
           "processors": "minecraft:empty"
         }
       }
