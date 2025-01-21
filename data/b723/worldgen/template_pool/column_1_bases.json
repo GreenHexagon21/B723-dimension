@@ -1,4 +1,3 @@
-
 {
     "fallback": "minecraft:empty",
     "elements": [
@@ -7,7 +6,7 @@
         "element": {
           "element_type": "minecraft:single_pool_element",
           "projection": "rigid",
-          "location": "b723:hexagon_base/hex_children_a/hexagon_child_a1",
+          "location": "b723:columns/bases/column_1_base",
           "processors": "minecraft:empty"
         }
       }

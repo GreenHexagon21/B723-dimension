@@ -6,7 +6,7 @@
     "step": "surface_structures",
     "spawn_overrides": {},
     "terrain_adaptation": "beard_thin",
-    "start_pool": "b723:hex_origin",
+    "start_pool": "b723:column_1_bases",
     "size": 7,
     "start_height": {
       "absolute": 0
