@@ -6,7 +6,7 @@
         "element": {
           "element_type": "minecraft:single_pool_element",
           "projection": "rigid",
-          "location": "b723:columns/tops/column_1_top_1",
+          "location": "b723:columns/tops/column_1_top_1_base_1",
           "processors": "minecraft:empty"
         }
       }
