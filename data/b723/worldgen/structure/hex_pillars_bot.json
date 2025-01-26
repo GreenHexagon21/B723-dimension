@@ -5,10 +5,10 @@
   ],
   "step": "surface_structures",
   "spawn_overrides": {},
-  "start_pool": "b723:column_1_bottom_1",
+  "start_pool": "b723:column_1_pieces",
   "size": 20,
   "start_height": {
-    "absolute": 10
+    "absolute": 87
   },
   "max_distance_from_center": 116,
   "use_expansion_hack": true
