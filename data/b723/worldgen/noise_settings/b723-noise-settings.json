@@ -402,7 +402,7 @@
           "then_run": {
             "type": "minecraft:block",
             "result_state": {
-              "Name": "minecraft:red_sand"
+              "Name": "minecraft:sand"
             }
           }
         }

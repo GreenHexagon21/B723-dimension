@@ -8,7 +8,7 @@
   "start_pool": "b723:column_1_bottom_1_bases",
   "size": 20,
   "start_height": {
-    "absolute": 40
+    "absolute": 10
   },
   "max_distance_from_center": 116,
   "use_expansion_hack": true
