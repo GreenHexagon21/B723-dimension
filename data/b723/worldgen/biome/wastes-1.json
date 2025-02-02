@@ -1,5 +1,6 @@
 {
-  "temperature": 0,
+  "temperature": 2,
+  "temperature_modifier": "none",
   "carvers": [
     "minecraft:cave",
     "minecraft:cave_extra_underground",

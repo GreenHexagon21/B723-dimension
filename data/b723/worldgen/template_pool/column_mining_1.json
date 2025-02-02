@@ -1,0 +1,14 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "b723:columns/mining/mining_column_tall_1",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }

@@ -1,7 +1,6 @@
 {
   "type": "minecraft:jigsaw",
   "biomes": [
-    "b723:wastes-1"
   ],
   "step": "surface_structures",
   "spawn_overrides": {},
