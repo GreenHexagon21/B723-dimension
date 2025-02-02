@@ -13,6 +13,42 @@
     {
       "weight": 1,
       "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "b723:columns/mining/mining_column_hole",
+        "processors": "b723:mining_column_decor_copper"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "b723:columns/mining/mining_column_hole",
+        "processors": "b723:mining_column_decor_iron"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "b723:columns/mining/mining_column_hole",
+        "processors": "b723:mining_column_decor_gold"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "b723:columns/mining/mining_column_hole",
+        "processors": "b723:mining_column_decor_diamond"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
         "element_type": "minecraft:empty_pool_element"
       }
     }
