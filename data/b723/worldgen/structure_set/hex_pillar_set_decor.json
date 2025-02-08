@@ -1,14 +1,15 @@
 {
-    "placement": {
-      "type": "minecraft:random_spread",
-      "salt": 5341322,
-      "separation": 7,
-      "spacing": 17
-    },
-    "structures": [
-      {
-        "structure": "b723:hex_pillars_decor",
-        "weight": 1
-      }
-    ]
-  }
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spread_type": "triangular",
+    "salt": 341251343,
+    "separation": 7,
+    "spacing": 17
+  },
+  "structures": [
+    {
+      "structure": "b723:hex_pillars_decor",
+      "weight": 1
+    }
+  ]
+}
