@@ -1,0 +1,149 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:list_pool_element",
+          "projection": "rigid",
+          "elements": [
+            {
+              "element_type": "minecraft:single_pool_element",
+              "projection": "rigid",
+              "location": "b723:columns/single_piece_decor/decor_big_column_tall_1",
+              "processors": "minecraft:empty"
+            },
+            {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "b723:columns/single_piece_decor/decor_big_column_tall_2",
+                "processors": "minecraft:empty"
+            },
+            {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "b723:columns/single_piece_decor/decor_big_column_tall_3",
+                "processors": "minecraft:empty"
+            },
+            {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "b723:columns/single_piece_decor/decor_big_column_tall_4",
+                "processors": "minecraft:empty"
+            },
+            {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "b723:columns/single_piece_decor/decor_big_column_tall_5",
+                "processors": "minecraft:empty"
+            },
+            {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "b723:columns/single_piece_decor/decor_big_column_tall_6",
+                "processors": "minecraft:empty"
+            }
+          ]
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:list_pool_element",
+          "projection": "rigid",
+          "elements": [
+            {
+              "element_type": "minecraft:single_pool_element",
+              "projection": "rigid",
+              "location": "b723:columns/single_piece_decor/decor_big_column_medium_1",
+              "processors": "minecraft:empty"
+            },
+            {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "b723:columns/single_piece_decor/decor_big_column_medium_2",
+                "processors": "minecraft:empty"
+            },
+            {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "b723:columns/single_piece_decor/decor_big_column_medium_3",
+                "processors": "minecraft:empty"
+            },
+            {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "b723:columns/single_piece_decor/decor_big_column_medium_4",
+                "processors": "minecraft:empty"
+            },
+            {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "b723:columns/single_piece_decor/decor_big_column_medium_5",
+                "processors": "minecraft:empty"
+            },
+            {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "b723:columns/single_piece_decor/decor_big_column_medium_6",
+                "processors": "minecraft:empty"
+            },
+            {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "b723:columns/single_piece_decor/decor_big_column_medium_7",
+                "processors": "minecraft:empty"
+            }
+          ]
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:list_pool_element",
+          "projection": "rigid",
+          "elements": [
+            {
+              "element_type": "minecraft:single_pool_element",
+              "projection": "rigid",
+              "location": "b723:columns/single_piece_decor/decor_big_column_short_1",
+              "processors": "minecraft:empty"
+            },
+            {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "b723:columns/single_piece_decor/decor_big_column_short_2",
+                "processors": "minecraft:empty"
+            },
+            {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "b723:columns/single_piece_decor/decor_big_column_short_3",
+                "processors": "minecraft:empty"
+            },
+            {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "b723:columns/single_piece_decor/decor_big_column_short_4",
+                "processors": "minecraft:empty"
+            }
+          ]
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:list_pool_element",
+          "projection": "rigid",
+          "elements": [
+            {
+              "element_type": "minecraft:single_pool_element",
+              "projection": "rigid",
+              "location": "minecraft:ancient_city/city_center/walls/right",
+              "processors": "minecraft:empty"
+            }
+          ]
+        }
+      }
+    ]
+  }
