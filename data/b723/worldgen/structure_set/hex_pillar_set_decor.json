@@ -3,8 +3,10 @@
     "type": "minecraft:random_spread",
     "spread_type": "triangular",
     "salt": 341251343,
-    "separation": 7,
-    "spacing": 17
+    "separation": 3,
+    "spacing": 7,
+    "frequency_reduction_method": "legacy_type_2",
+    "frequency": 0.6
   },
   "structures": [
     {
