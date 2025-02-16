@@ -16,7 +16,8 @@
         }
       }
     ]
-  },  {
+  },
+  {
     "processor_type": "minecraft:capped",
     "delegate": {
       "processor_type": "minecraft:rule",
@@ -27,11 +28,11 @@
           },
           "input_predicate": {
             "predicate_type": "minecraft:random_block_match",
-            "block": "minecraft:stone",
+            "block": "minecraft:sandstone",
             "probability": 0.5
           },
           "output_state": {
-            "Name": "minecraft:gold_ore"
+            "Name": "minecraft:copper_ore"
           }
         }
       ]
@@ -43,20 +44,45 @@
     }
   },
   {
-    "processor_type": "minecraft:rule",
-    "rules": [
-      {
-        "location_predicate": {
-          "predicate_type": "minecraft:always_true"
-        },
-        "input_predicate": {
-          "predicate_type": "minecraft:block_match",
-          "block": "minecraft:sandstone"
-        },
-        "output_state": {
-          "Name": "minecraft:stone"
+    "processor_type": "minecraft:capped",
+    "delegate": {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:sandstone"
+          },
+          "output_state": {
+            "Name": "minecraft:stone"
+          }
         }
-      }
-    ]
+      ]
+    },
+    "limit": 1000
+  },
+  {
+    "processor_type": "minecraft:capped",
+    "delegate": {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:red_sandstone"
+          },
+          "output_state": {
+            "Name": "minecraft:stone"
+          }
+        }
+      ]
+    },
+    "limit": 1000
   }
 ]
